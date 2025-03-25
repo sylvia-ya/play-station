@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play_station.Form1.resources
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play_station.Properties.Resources.resources
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.csproj.GenerateResource.cache
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.AssemblyInfo.cs
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\play station\play station\bin\Debug\net6.0-windows\play station.exe
+C:\Users\User\Desktop\play station\play station\bin\Debug\net6.0-windows\play station.deps.json
+C:\Users\User\Desktop\play station\play station\bin\Debug\net6.0-windows\play station.runtimeconfig.json
+C:\Users\User\Desktop\play station\play station\bin\Debug\net6.0-windows\play station.dll
+C:\Users\User\Desktop\play station\play station\bin\Debug\net6.0-windows\play station.pdb
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.dll
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\refint\play station.dll
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.pdb
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\play station.genruntimeconfig.cache
+C:\Users\User\Desktop\play station\play station\obj\Debug\net6.0-windows\ref\play station.dll
